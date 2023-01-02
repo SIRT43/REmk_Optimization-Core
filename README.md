@@ -1,6 +1,6 @@
 # <p align="center">Optimization-Core</p>
 
-![](https://github.com/SIRT43/REmk_SIRT43.github.io/releases/download/logo/logo.png)
+![](https://github.com/SIRT43/SIRT43.github.io/releases/download/logo/logo.png)
 
 <p align="center">ERmk_Optimization-Core 实时更新开发进度以及包</p>  
 
