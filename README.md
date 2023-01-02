@@ -10,4 +10,4 @@
 
 ⠀  
 
-<p align="center">[优化核心 官网]-[sirt43.github.io]</p>
+<p align="center">优化核心 [官网](sirt43.github.io)</p>
