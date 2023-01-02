@@ -1,4 +1,4 @@
-# REmk_Optimization-Core# <p align="center">Optimization-Core</p>
+<p align="center">Optimization-Core</p>
 
 ![](https://github.com/SIRT43/REmk_SIRT43.github.io/releases/download/logo/logo.png)
 
